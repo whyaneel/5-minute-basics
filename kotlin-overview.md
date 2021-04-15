@@ -1,3 +1,6 @@
+<img width="494" alt="KotlinOverview" src="https://user-images.githubusercontent.com/29258789/114834700-6a461380-9e03-11eb-9454-587f1a5a6a76.png">
+
+
 # Kotlin Overview
 
 **Kotlin** *is all about experience and approach* to solving people’s problems. If we look at comparing IDEs like Eclipse and IntelliJ, over a period of time developers fall in love with IntelliJ, in the same fashion Kotlin will give you a better experience with its ***easy-syntax, functional nature***. We can onboard Kotlin easily, because of its ***interoperability*** with Java. It enables easy migration to Kotlin with small piece of code, for any brownfield (java) projects. Also can run alongside Java without any impact, this means that Java objects can be called directly from Kotlin code with Kotlin syntax and vice versa.
